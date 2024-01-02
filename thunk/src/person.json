@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": {
+        "title": "Miss",
+        "first": "Iida",
+        "last": "Kivi"
+      },
+      "location": {
+        "street": {
+          "number": 3465,
+          "name": "Rotuaari"
+        },
+        "city": "Rusko",
+        "state": "Finland Proper",
+        "country": "Finland",
+        "postcode": 95848,
+        "coordinates": {
+          "latitude": "-27.3855",
+          "longitude": "77.8095"
+        },
+        "timezone": {
+          "offset": "+6:00",
+          "description": "Almaty, Dhaka, Colombo"
+        }
+      },
+      "email": "iida.kivi@example.com",
+      "login": {
+        "uuid": "553c5bc1-fc05-4c0d-abfd-93fc3cca1d65",
+        "username": "ticklishmouse271",
+        "password": "zheng",
+        "salt": "UctVdY6T",
+        "md5": "47800276956408ac938d5b199608a1d7",
+        "sha1": "fdb3b971a714d16cd205c3fd92ac0c6a4d68bb64",
+        "sha256": "ae0e424da0d4e13380929db2357b3f2a2d22625c760dfcef5644e6334c103d1c"
+      },
+      "dob": {
+        "date": "2000-12-01T11:55:43.124Z",
+        "age": 23
+      },
+      "registered": {
+        "date": "2017-08-14T10:34:44.737Z",
+        "age": 6
+      },
+      "phone": "08-761-843",
+      "cell": "041-598-87-46",
+      "id": {
+        "name": "HETU",
+        "value": "NaNNA394undefined"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/20.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/20.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/20.jpg"
+      },
+      "nat": "FI"
+    }
+  ],
+  "info": {
+    "seed": "d89c296c8b34d9cb",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}

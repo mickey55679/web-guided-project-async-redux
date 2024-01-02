@@ -1,3 +1,5 @@
+import { GET_PERSON, SET_IS_FETCHING } from "../actions/index";
+
 const initialState = {
 person: {
   name: {
@@ -17,6 +19,11 @@ error: ''
 
 export const reducer = (state = initialState, action) => {
   switch (action.type) {
+   
+    case SET_IS_FETCHING:
+       console.log(action);
+      return {...state, isFetching: action.payload}
+    
     default:
       return state;
   }
